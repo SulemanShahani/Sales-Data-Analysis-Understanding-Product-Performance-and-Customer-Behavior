@@ -51,11 +51,4 @@ This analysis provides insights into product performance and customer behavior b
 - Pandas for data manipulation
 - Matplotlib for data visualization
 
-## Future Work
-
-Future work could include:
-
-- Customer segmentation analysis to understand buying patterns.
-- Forecasting sales to optimize inventory levels.
-- Implementing machine learning models for demand prediction.
 
